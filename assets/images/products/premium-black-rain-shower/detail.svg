@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" width="900" height="675" role="img" aria-labelledby="title">
+  <!--
+    PLACEHOLDER ASSET — products/premium-black-rain-shower/detail.svg
+    Replace with an approved detail photograph of the Premium Black Rain Shower System.
+    Required: close-up of the rain showerhead face and matte black finish texture.
+    Target 900x675 (4:3), under 150 KB, WebP preferred.
+  -->
+  <title id="title">Premium Black Rain Shower System — product placeholder (detail image)</title>
+  <rect width="900" height="675" fill="#0E1216"/>
+  <rect x="24" y="24" width="852" height="627" fill="none" stroke="#C8A46A" stroke-opacity="0.25" stroke-width="1"/>
+  <g transform="translate(450 300)">
+    <ellipse cx="0" cy="0" rx="150" ry="28" fill="#161B21" stroke="#39414D" stroke-width="2"/>
+    <path d="M-150 0v34a150 28 0 0 0 300 0v-34" fill="#10151A" stroke="#39414D" stroke-width="2"/>
+    <ellipse cx="0" cy="28" rx="150" ry="28" fill="#0E1216" stroke="#39414D" stroke-width="1.5"/>
+    <g fill="#C8A46A" opacity="0.35">
+      <circle cx="0" cy="0" r="2.5"/><circle cx="-60" cy="-6" r="2.5"/><circle cx="60" cy="-6" r="2.5"/>
+      <circle cx="-90" cy="-10" r="2.5"/><circle cx="90" cy="-10" r="2.5"/>
+    </g>
+    <path d="M-110 40c-8 6-20 2-22 14" fill="none" stroke="#C8A46A" stroke-opacity="0.4" stroke-width="3" stroke-linecap="round"/>
+    <path d="M110 40c8 6 20 2 22 14" fill="none" stroke="#C8A46A" stroke-opacity="0.4" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="450" y="580" fill="#F5F5F4" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="600" letter-spacing="0.04em" text-anchor="middle">Close-up detail — rainfall showerhead</text>
+  <text x="450" y="612" fill="#A1A1AA" font-family="Inter, system-ui, sans-serif" font-size="14" letter-spacing="0.08em" text-anchor="middle">PREMIUM BLACK RAIN SHOWER SYSTEM &middot; MATTE BLACK</text>
+  <text x="450" y="652" fill="#71717A" font-family="Inter, system-ui, sans-serif" font-size="13" letter-spacing="0.06em" text-anchor="middle">Placeholder — awaiting approved product photography</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="900" height="1200" role="img" aria-labelledby="title">
+  <!--
+    PLACEHOLDER ASSET — products/premium-black-rain-shower/main.svg
+    Replace with an approved product photograph of the Premium Black Rain Shower System.
+    Required: matte black overhead rainfall shower and adjustable handheld wand on a dark charcoal backdrop.
+    Target 900x1200 (3:4), under 200 KB, WebP preferred.
+  -->
+  <title id="title">Premium Black Rain Shower System — product placeholder (main image)</title>
+  <rect width="900" height="1200" fill="#0E1216"/>
+  <rect x="24" y="24" width="852" height="1152" fill="none" stroke="#C8A46A" stroke-opacity="0.25" stroke-width="1"/>
+  <g transform="translate(450 300)">
+    <path d="M0 0v120" stroke="#C8A46A" stroke-width="6" stroke-linecap="round"/>
+    <ellipse cx="0" cy="132" rx="150" ry="28" fill="#161B21" stroke="#39414D" stroke-width="2"/>
+    <path d="M-150 132v34a150 28 0 0 0 300 0v-34" fill="#10151A" stroke="#39414D" stroke-width="2"/>
+    <ellipse cx="0" cy="160" rx="150" ry="28" fill="#0E1216" stroke="#39414D" stroke-width="1.5"/>
+    <g fill="#C8A46A" opacity="0.35">
+      <circle cx="0" cy="132" r="2.5"/><circle cx="-60" cy="126" r="2.5"/><circle cx="60" cy="126" r="2.5"/>
+      <circle cx="-90" cy="122" r="2.5"/><circle cx="90" cy="122" r="2.5"/>
+    </g>
+  </g>
+  <g transform="translate(520 700)">
+    <path d="M0 0v160" stroke="#C8A46A" stroke-width="5" stroke-linecap="round"/>
+    <rect x="-16" y="160" width="32" height="140" rx="8" fill="#161B21" stroke="#39414D" stroke-width="2"/>
+    <ellipse cx="0" cy="308" rx="22" ry="14" fill="#10151A" stroke="#C8A46A" stroke-opacity="0.6" stroke-width="2"/>
+  </g>
+  <text x="450" y="1040" fill="#F5F5F4" font-family="Inter, system-ui, sans-serif" font-size="22" font-weight="600" letter-spacing="0.04em" text-anchor="middle">Premium Black Rain Shower System</text>
+  <text x="450" y="1076" fill="#A1A1AA" font-family="Inter, system-ui, sans-serif" font-size="15" letter-spacing="0.08em" text-anchor="middle">RAIN SHOWER SYSTEMS &middot; MATTE BLACK FINISH</text>
+  <text x="450" y="1136" fill="#71717A" font-family="Inter, system-ui, sans-serif" font-size="14" letter-spacing="0.06em" text-anchor="middle">Placeholder — awaiting approved product photography</text>
+</svg>

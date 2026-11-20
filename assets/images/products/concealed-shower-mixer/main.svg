@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="900" height="1200" role="img" aria-labelledby="title">
+  <!--
+    PLACEHOLDER ASSET — products/concealed-shower-mixer/main.svg
+    Replace with an approved product photograph of the Modern Concealed Shower Mixer Set.
+    Required: concealed in-wall control plate, square rainfall showerhead and 3-mode handheld shower on a dark backdrop.
+    Target 900x1200 (3:4), under 200 KB, WebP preferred.
+  -->
+  <title id="title">Modern Concealed Shower Mixer Set — product placeholder (main image)</title>
+  <rect width="900" height="1200" fill="#0E1216"/>
+  <rect x="24" y="24" width="852" height="1152" fill="none" stroke="#C8A46A" stroke-opacity="0.25" stroke-width="1"/>
+  <g transform="translate(450 260)">
+    <path d="M0 0v110" stroke="#C8A46A" stroke-width="6" stroke-linecap="round"/>
+    <rect x="-80" y="122" width="160" height="44" rx="4" fill="#161B21" stroke="#39414D" stroke-width="2"/>
+    <ellipse cx="0" cy="166" rx="140" ry="24" fill="#10151A" stroke="#39414D" stroke-width="2"/>
+    <path d="M-140 166v30a140 24 0 0 0 280 0v-30" fill="#0E1216" stroke="#39414D" stroke-width="1.5"/>
+    <rect x="-22" y="210" width="44" height="14" rx="3" fill="#C8A46A" opacity="0.5"/>
+  </g>
+  <g transform="translate(450 720)">
+    <path d="M0 0v150" stroke="#C8A46A" stroke-width="5" stroke-linecap="round"/>
+    <rect x="-16" y="150" width="32" height="130" rx="8" fill="#161B21" stroke="#39414D" stroke-width="2"/>
+    <ellipse cx="0" cy="288" rx="22" ry="14" fill="#10151A" stroke="#C8A46A" stroke-opacity="0.6" stroke-width="2"/>
+    <rect x="-26" y="296" width="52" height="16" rx="4" fill="#161B21" stroke="#39414D" stroke-width="1.5"/>
+  </g>
+  <text x="450" y="1040" fill="#F5F5F4" font-family="Inter, system-ui, sans-serif" font-size="22" font-weight="600" letter-spacing="0.04em" text-anchor="middle">Modern Concealed Shower Mixer Set</text>
+  <text x="450" y="1076" fill="#A1A1AA" font-family="Inter, system-ui, sans-serif" font-size="15" letter-spacing="0.08em" text-anchor="middle">CONCEALED SHOWER SYSTEMS &middot; POLISHED CHROME</text>
+  <text x="450" y="1136" fill="#71717A" font-family="Inter, system-ui, sans-serif" font-size="14" letter-spacing="0.06em" text-anchor="middle">Placeholder — awaiting approved product photography</text>
+</svg>

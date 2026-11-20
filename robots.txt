@@ -1,0 +1,7 @@
+# Pricetech Solutions — robots.txt
+# Canonical domain to be confirmed before launch; replace YOUR-FINAL-DOMAIN.co.ke.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://YOUR-FINAL-DOMAIN.co.ke/sitemap.xml

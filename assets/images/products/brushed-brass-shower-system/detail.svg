@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" width="900" height="675" role="img" aria-labelledby="title">
+  <!--
+    PLACEHOLDER ASSET — products/brushed-brass-shower-system/detail.svg
+    Replace with an approved detail photograph of the Brushed Brass Shower System.
+    Required: close-up of the brushed brass control and square showerhead.
+    NOTE: Illustrative catalogue concept — NOT confirmed stock. Target 900x675 (4:3), under 150 KB, WebP preferred.
+  -->
+  <title id="title">Brushed Brass Shower System — product placeholder (detail image, illustrative concept)</title>
+  <rect width="900" height="675" fill="#0E1216"/>
+  <rect x="24" y="24" width="852" height="627" fill="none" stroke="#C8A46A" stroke-opacity="0.25" stroke-width="1"/>
+  <g transform="translate(450 290)">
+    <rect x="-170" y="0" width="340" height="44" rx="6" fill="#161B21" stroke="#39414D" stroke-width="2"/>
+    <rect x="-160" y="10" width="320" height="24" rx="4" fill="#10151A" stroke="#C8A46A" stroke-opacity="0.5" stroke-width="2"/>
+    <rect x="-32" y="46" width="64" height="20" rx="4" fill="#C8A46A" opacity="0.6"/>
+    <circle cx="-90" cy="22" r="5" fill="#C8A46A" opacity="0.7"/>
+    <circle cx="0" cy="22" r="5" fill="#C8A46A" opacity="0.7"/>
+    <circle cx="90" cy="22" r="5" fill="#C8A46A" opacity="0.7"/>
+  </g>
+  <g transform="translate(260 470)">
+    <rect x="0" y="0" width="120" height="120" rx="8" fill="#161B21" stroke="#39414D" stroke-width="2"/>
+    <rect x="10" y="10" width="100" height="100" rx="6" fill="#10151A" stroke="#C8A46A" stroke-opacity="0.5" stroke-width="1.5"/>
+    <rect x="22" y="22" width="76" height="76" rx="4" fill="#0E1216" stroke="#39414D" stroke-width="1"/>
+  </g>
+  <text x="450" y="580" fill="#F5F5F4" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="600" letter-spacing="0.04em" text-anchor="middle">Close-up detail — brushed brass control</text>
+  <text x="450" y="612" fill="#A1A1AA" font-family="Inter, system-ui, sans-serif" font-size="14" letter-spacing="0.08em" text-anchor="middle">BRUSHED BRASS SHOWER SYSTEM &middot; SQUARE RAINFALL HEAD</text>
+  <text x="450" y="652" fill="#71717A" font-family="Inter, system-ui, sans-serif" font-size="13" letter-spacing="0.06em" text-anchor="middle">Placeholder — awaiting approved product photography</text>
+</svg>

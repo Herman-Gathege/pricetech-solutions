@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" width="900" height="675" role="img" aria-labelledby="title">
+  <!--
+    PLACEHOLDER ASSET — products/concealed-shower-mixer/detail.svg
+    Replace with an approved detail photograph of the Modern Concealed Shower Mixer Set.
+    Required: close-up of the concealed control plate and handheld shower head.
+    Target 900x675 (4:3), under 150 KB, WebP preferred.
+  -->
+  <title id="title">Modern Concealed Shower Mixer Set — product placeholder (detail image)</title>
+  <rect width="900" height="675" fill="#0E1216"/>
+  <rect x="24" y="24" width="852" height="627" fill="none" stroke="#C8A46A" stroke-opacity="0.25" stroke-width="1"/>
+  <g transform="translate(450 300)">
+    <rect x="-100" y="0" width="200" height="52" rx="6" fill="#161B21" stroke="#39414D" stroke-width="2"/>
+    <rect x="-70" y="14" width="140" height="24" rx="3" fill="#10151A" stroke="#C8A46A" stroke-opacity="0.6" stroke-width="2"/>
+    <circle cx="-40" cy="26" r="5" fill="#C8A46A" opacity="0.7"/>
+    <circle cx="0" cy="26" r="5" fill="#C8A46A" opacity="0.7"/>
+    <circle cx="40" cy="26" r="5" fill="#C8A46A" opacity="0.7"/>
+    <path d="M-100 70v60M100 70v60M-70 70h20M-30 70h20M30 70h20" stroke="#C8A46A" stroke-opacity="0.35" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(700 520)">
+    <path d="M0 -40v100" stroke="#C8A46A" stroke-width="4" stroke-linecap="round"/>
+    <ellipse cx="0" cy="62" rx="20" ry="12" fill="#10151A" stroke="#C8A46A" stroke-opacity="0.6" stroke-width="2"/>
+  </g>
+  <text x="450" y="580" fill="#F5F5F4" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="600" letter-spacing="0.04em" text-anchor="middle">Close-up detail — concealed control plate</text>
+  <text x="450" y="612" fill="#A1A1AA" font-family="Inter, system-ui, sans-serif" font-size="14" letter-spacing="0.08em" text-anchor="middle">MODERN CONCEALED SHOWER MIXER SET &middot; POLISHED CHROME</text>
+  <text x="450" y="652" fill="#71717A" font-family="Inter, system-ui, sans-serif" font-size="13" letter-spacing="0.06em" text-anchor="middle">Placeholder — awaiting approved product photography</text>
+</svg>

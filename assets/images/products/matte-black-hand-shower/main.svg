@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="900" height="1200" role="img" aria-labelledby="title">
+  <!--
+    PLACEHOLDER ASSET — products/matte-black-hand-shower/main.svg
+    Replace with an approved product photograph of the Matte Black Hand Shower Set.
+    Required: matte black multifunction hand shower, slide rail and hose on a dark backdrop.
+    NOTE: Illustrative catalogue concept — NOT confirmed stock. Target 900x1200 (3:4), under 200 KB, WebP preferred.
+  -->
+  <title id="title">Matte Black Hand Shower Set — product placeholder (main image, illustrative concept)</title>
+  <rect width="900" height="1200" fill="#0E1216"/>
+  <rect x="24" y="24" width="852" height="1152" fill="none" stroke="#C8A46A" stroke-opacity="0.25" stroke-width="1"/>
+  <g transform="translate(450 300)">
+    <path d="M0 0v240" stroke="#1A1A1A" stroke-width="10" stroke-linecap="round"/>
+    <rect x="-6" y="10" width="12" height="220" rx="3" fill="#161B21" stroke="#39414D" stroke-width="1.5"/>
+    <ellipse cx="0" cy="250" rx="24" ry="16" fill="#10151A" stroke="#39414D" stroke-width="2"/>
+    <path d="M-24 250v24a24 16 0 0 0 48 0v-24" fill="#0E1216" stroke="#39414D" stroke-width="1.5"/>
+    <rect x="-10" y="284" width="20" height="40" rx="5" fill="#1A1A1A" stroke="#39414D" stroke-width="1.5"/>
+  </g>
+  <g transform="translate(450 780)">
+    <rect x="-140" y="0" width="280" height="34" rx="5" fill="#161B21" stroke="#39414D" stroke-width="2"/>
+    <rect x="-130" y="10" width="260" height="14" rx="3" fill="#10151A" stroke="#C8A46A" stroke-opacity="0.5" stroke-width="2"/>
+    <circle cx="-60" cy="22" r="5" fill="#C8A46A" opacity="0.7"/>
+    <circle cx="0" cy="22" r="5" fill="#C8A46A" opacity="0.7"/>
+    <circle cx="60" cy="22" r="5" fill="#C8A46A" opacity="0.7"/>
+  </g>
+  <text x="450" y="1040" fill="#F5F5F4" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="600" letter-spacing="0.04em" text-anchor="middle">Matte Black Hand Shower Set</text>
+  <text x="450" y="1072" fill="#A1A1AA" font-family="Inter, system-ui, sans-serif" font-size="14" letter-spacing="0.08em" text-anchor="middle">HAND SHOWERS &middot; MATTE BLACK FINISH</text>
+  <text x="450" y="1116" fill="#DFC18A" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="600" letter-spacing="0.06em" text-anchor="middle">ILLUSTRATIVE CONCEPT — NOT CONFIRMED STOCK</text>
+  <text x="450" y="1152" fill="#71717A" font-family="Inter, system-ui, sans-serif" font-size="13" letter-spacing="0.06em" text-anchor="middle">Placeholder — awaiting approved product photography</text>
+</svg>

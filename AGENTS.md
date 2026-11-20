@@ -110,16 +110,41 @@ Central config only: `js/data.js` → `PRICETECH.contact`.
 - Always `target="_blank"` + `rel="noopener noreferrer"`. Never hardcode a `wa.me` URL in HTML.
 - Adding a new service/product means adding one entry to `js/data.js` first.
 
+### Catalogue data model (`js/data.js` → `PRICETECH.catalogue`)
+
+- Products, categories, finishes and verification status are centralized here; nothing is scattered across HTML.
+- Each product supports: id, name, category, shortDescription, description, finishes, finishNote, variations[], specifications[], images[] (role: main/detail), priceStatus, waTopic, verificationStatus.
+- `verificationStatus`: `confirmed` (captured from recon), `illustrative-concept` (proposed variation, NOT confirmed stock — must be visibly marked), or `pending-confirmation`.
+- `priceStatus`: `on-enquiry` unless a price is confirmed by the owner. Never invent prices, brands, model numbers, specs, stock or warranties.
+- Illustrative-concept products must carry a visible "Concept" badge and an explicit "not confirmed stock" note.
+- Adding a product = one entry in `js/data.js.products` + one label in `js/data.js.topics`; the grid, filters and WhatsApp links generate automatically.
+- Placeholder images live under `assets/images/products/<slug>/` (main.svg + detail.svg); replace by filename with no component change.
+
 ## 9. File organization and conventions
 
 ```text
 index.html                 All markup; canonical display copy
+AGENTS.md                  Permanent project rules
+README.md                  Setup, editing guide, quality gates
+robots.txt                 Crawl policy (placeholder domain — confirm before launch)
+sitemap.xml                Sitemap (placeholder domain — confirm before launch)
+docs/                      Recon + phase + SEO reports
+├── RECON-MISSION-Pricetech-Solutions.md
+├── PHASE-1-REPORT.md
+├── PHASE-2-REFERENCE-RESEARCH.md   Competitive UX research
+├── PHASE-2-REPORT.md                 Phase 2 implementation report
+└── SEO-IMPLEMENTATION.md             SEO foundations + deployment requirements
+assets/
+├── images/
+│   ├── products/<slug>/           Named product placeholder SVGs (main.svg, detail.svg)
+│   └── showroom/                  Hero carousel placeholder SVGs
+├── icons/                 Standalone SVG source (icons are inlined in HTML)
+└── fonts/                 Reserved for self-hosted fonts (currently Google Fonts)
 css/styles.css             Tokens + components + responsive rules
-js/data.js                 Business data: contact, message templates, nav
-js/main.js                 Interaction only (menu, WA links, section spy)
-assets/images/             Photography and image placeholders
-assets/icons/              Standalone SVG source (icons are inlined in HTML)
-docs/                      Recon + phase reports
+js/
+├── data.js                Business data: contact, templates, nav, catalogue
+└── main.js                Interaction: menu, WA links, catalogue rendering,
+                           carousels, scroll reveals, product dialog
 ```
 
 - No inline `style=""` attributes. No `<style>` blocks in HTML. No frameworks.

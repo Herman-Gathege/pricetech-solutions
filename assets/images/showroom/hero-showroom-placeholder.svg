@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1080" width="900" height="1080" role="img" aria-labelledby="title">
+  <!--
+    PLACEHOLDER ASSET — showroom/hero-showroom-placeholder.svg
+    Replace with an approved showroom photograph for the hero carousel.
+    Required: premium installed bathroom with a rainfall shower on dark slate/charcoal surfaces.
+    Target 900x1080 (5:6), under 250 KB, WebP preferred.
+  -->
+  <title id="title">Hero showroom placeholder — premium bathroom installation</title>
+  <rect width="900" height="1080" fill="#0E1216"/>
+  <rect x="24" y="24" width="852" height="1032" fill="none" stroke="#C8A46A" stroke-opacity="0.25" stroke-width="1"/>
+  <g transform="translate(450 420)">
+    <rect x="-200" y="-60" width="400" height="240" rx="10" fill="#161B21" stroke="#39414D" stroke-width="2"/>
+    <path d="M-200 -60h400" stroke="#C8A46A" stroke-opacity="0.3" stroke-width="1"/>
+    <rect x="-170" y="-30" width="340" height="180" rx="8" fill="#10151A" stroke="#39414D" stroke-width="1.5"/>
+    <path d="M-170 -30h340" stroke="#C8A46A" stroke-opacity="0.25" stroke-width="1"/>
+    <ellipse cx="0" cy="90" rx="130" ry="26" fill="#161B21" stroke="#39414D" stroke-width="2"/>
+    <path d="M-130 90v32a130 26 0 0 0 260 0v-32" fill="#0E1216" stroke="#39414D" stroke-width="1.5"/>
+  </g>
+  <g transform="translate(450 800)">
+    <path d="M0 -40v140" stroke="#C8A46A" stroke-width="5" stroke-linecap="round"/>
+    <rect x="-16" y="100" width="32" height="100" rx="8" fill="#161B21" stroke="#39414D" stroke-width="2"/>
+    <ellipse cx="0" cy="208" rx="22" ry="14" fill="#10151A" stroke="#C8A46A" stroke-opacity="0.6" stroke-width="2"/>
+  </g>
+  <text x="450" y="960" fill="#F5F5F4" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="600" letter-spacing="0.04em" text-anchor="middle">Hero showroom — premium bathroom installation</text>
+  <text x="450" y="992" fill="#A1A1AA" font-family="Inter, system-ui, sans-serif" font-size="14" letter-spacing="0.08em" text-anchor="middle">SHOWROOM &middot; DARK SLATE SURFACES &middot; BRASS ACCENTS</text>
+  <text x="450" y="1028" fill="#71717A" font-family="Inter, system-ui, sans-serif" font-size="13" letter-spacing="0.06em" text-anchor="middle">Placeholder — awaiting approved showroom photography</text>
+</svg>

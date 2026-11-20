@@ -110,8 +110,8 @@ window.PRICETECH = {
           'Free installation in Nairobi — confirm terms on enquiry'
         ],
         images: [
-          { src: 'assets/images/products/premium-black-rain-shower/main.svg', alt: 'Premium Black Rain Shower System — matte black overhead rainfall shower on a dark backdrop', role: 'main' },
-          { src: 'assets/images/products/premium-black-rain-shower/detail.svg', alt: 'Premium Black Rain Shower System — close-up detail of the rain showerhead and handheld wand', role: 'detail' }
+          { src: 'assets/images/products/premium-black-rain-shower/Wonderland America matte black ceiling mount 16 inch Non LED rain head 3 way thermostatic shower faucet with Regular head wall mount and single.jpeg', alt: 'Premium Black Rain Shower System — matte black overhead rainfall shower on a dark backdrop', role: 'main' },
+          { src: 'assets/images/products/premium-black-rain-shower/10_ Rain Shower + Handheld — Hotel-Level Shower, DIY Install.jpeg', alt: 'Premium Black Rain Shower System — close-up detail of the rain showerhead and handheld wand', role: 'detail' }
         ],
         priceStatus: 'on-enquiry',
         waTopic: 'rain-shower'
@@ -134,8 +134,8 @@ window.PRICETECH = {
           'High-pressure design'
         ],
         images: [
-          { src: 'assets/images/products/concealed-shower-mixer/main.svg', alt: 'Modern Concealed Shower Mixer Set — square rainfall showerhead and 3-mode handheld shower', role: 'main' },
-          { src: 'assets/images/products/concealed-shower-mixer/detail.svg', alt: 'Modern Concealed Shower Mixer Set — detail of the concealed control plate and handheld shower', role: 'detail' }
+          { src: 'assets/images/products/concealed-shower-mixer/Famapy Matte Black Concealed Shower System – 304 Stainless Steel Fixtures + Copper Waterway + Ceramic Cartridge.jpeg', alt: 'Modern Concealed Shower Mixer Set — square rainfall showerhead and 3-mode handheld shower', role: 'main' },
+          { src: 'assets/images/products/concealed-shower-mixer/2 Way Square Concealed Thermostatic Mixer Shower With 2 Dial ,twin Head.jpeg', alt: 'Modern Concealed Shower Mixer Set — detail of the concealed control plate and handheld shower', role: 'detail' }
         ],
         priceStatus: 'on-enquiry',
         waTopic: 'mixer-set'
@@ -158,8 +158,8 @@ window.PRICETECH = {
           'Premium build quality'
         ],
         images: [
-          { src: 'assets/images/products/tempesta-cube-250/main.svg', alt: 'Tempesta Cube 250 Thermostatic System — 250mm square thermostatic shower system', role: 'main' },
-          { src: 'assets/images/products/tempesta-cube-250/detail.svg', alt: 'Tempesta Cube 250 Thermostatic System — detail of the thermostatic control and square showerhead', role: 'detail' }
+          { src: 'assets/images/products/tempesta-cube-250/GROHE etgrebsbatteri.jpeg', alt: 'Tempesta Cube 250 Thermostatic System — 250mm square thermostatic shower system', role: 'main' },
+          { src: 'assets/images/products/tempesta-cube-250/5 consigli utili per un’esperienza doccia speciale.jpeg', alt: 'Tempesta Cube 250 Thermostatic System — detail of the thermostatic control and square showerhead', role: 'detail' }
         ],
         priceStatus: 'on-enquiry',
         waTopic: 'thermostatic-system'
@@ -187,8 +187,8 @@ window.PRICETECH = {
           'Illustrative concept — not confirmed stock'
         ],
         images: [
-          { src: 'assets/images/products/round-rainfall-shower/main.svg', alt: 'Round Rainfall Shower System — illustrative concept, polished chrome', role: 'main' },
-          { src: 'assets/images/products/round-rainfall-shower/detail.svg', alt: 'Round Rainfall Shower System — detail, illustrative concept', role: 'detail' }
+          { src: 'assets/images/products/round-rainfall-shower/Premium Stainless steel 40 cm round Rain shower head, solid construction.jpeg', alt: 'Round Rainfall Shower System — illustrative concept, polished chrome', role: 'main' },
+          { src: 'assets/images/products/round-rainfall-shower/System prysznicowy Bayala Round z deszczownicą 20 cm.jpeg', alt: 'Round Rainfall Shower System — detail, illustrative concept', role: 'detail' }
         ],
         priceStatus: 'on-enquiry',
         waTopic: 'round-rainfall'
@@ -213,8 +213,8 @@ window.PRICETECH = {
           'Illustrative concept — not confirmed stock'
         ],
         images: [
-          { src: 'assets/images/products/brushed-brass-shower-system/main.svg', alt: 'Brushed Brass Shower System — illustrative concept, brushed brass', role: 'main' },
-          { src: 'assets/images/products/brushed-brass-shower-system/detail.svg', alt: 'Brushed Brass Shower System — detail, illustrative concept', role: 'detail' }
+          { src: 'assets/images/products/brushed-brass-shower-system/Brushed Brass Rainfall Shower System with Modern Round Head and Integrated Hand Wand.jpeg', alt: 'Brushed Brass Shower System — illustrative concept, brushed brass', role: 'main' },
+          { src: 'assets/images/products/brushed-brass-shower-system/Bathroom Shower Faucet Set Brass Three Way Diverter Rainfall Shower Head Handheld Spray Tub Spout Wall Mounted Hot Cold Mixer System Brushed Gold _ 10.jpeg', alt: 'Brushed Brass Shower System — detail, illustrative concept', role: 'detail' }
         ],
         priceStatus: 'on-enquiry',
         waTopic: 'brushed-brass-shower'
@@ -239,8 +239,8 @@ window.PRICETECH = {
           'Illustrative concept — not confirmed stock'
         ],
         images: [
-          { src: 'assets/images/products/matte-black-hand-shower/main.svg', alt: 'Matte Black Hand Shower Set — illustrative concept, matte black', role: 'main' },
-          { src: 'assets/images/products/matte-black-hand-shower/detail.svg', alt: 'Matte Black Hand Shower Set — detail, illustrative concept', role: 'detail' }
+          { src: 'assets/images/products/matte-black-hand-shower/WEIHAO Matte Black Wall Mounted 2 Function Shower Set square Rain Overhead and Handheld Shower Head.jpeg', alt: 'Matte Black Hand Shower Set — illustrative concept, matte black', role: 'main' },
+          { src: 'assets/images/products/matte-black-hand-shower/Luxury Matte Black Shower with Modern Design.jpeg', alt: 'Matte Black Hand Shower Set — detail, illustrative concept', role: 'detail' }
         ],
         priceStatus: 'on-enquiry',
         waTopic: 'matte-black-hand-shower'
@@ -266,8 +266,8 @@ window.PRICETECH = {
           'Illustrative concept — not confirmed stock'
         ],
         images: [
-          { src: 'assets/images/products/square-rainfall-shower/main.svg', alt: 'Square Rainfall Shower System — illustrative concept, polished chrome', role: 'main' },
-          { src: 'assets/images/products/square-rainfall-shower/detail.svg', alt: 'Square Rainfall Shower System — detail, illustrative concept', role: 'detail' }
+          { src: 'assets/images/products/square-rainfall-shower/Square Waterfall Stainless Steel Slim Shower Head.jpeg', alt: 'Square Rainfall Shower System — illustrative concept, polished chrome', role: 'main' },
+          { src: 'assets/images/products/square-rainfall-shower/Shower Head – High-Flow Stainless Steel Square Rain Showerhead, High-Pressure Design Delivers Superior Shower Experience Even Under Low Water Flow (10 10_0 W in Matte Black Stainless Steel.jpeg', alt: 'Square Rainfall Shower System — detail, illustrative concept', role: 'detail' }
         ],
         priceStatus: 'on-enquiry',
         waTopic: 'square-rainfall'

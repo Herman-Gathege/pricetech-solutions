@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1080" width="900" height="1080" role="img" aria-labelledby="title">
+  <!--
+    PLACEHOLDER ASSET — hero-bathroom.svg
+    Replace with an approved Pricetech photograph: matte-black rainfall shower
+    against a dark tiled bathroom wall. Target 1200x1440 (5:6), JPEG/WebP under 300 KB.
+    Owner permission required before publishing any job photograph.
+  -->
+  <title id="title">Matte black rainfall shower line illustration</title>
+  <rect width="900" height="1080" fill="#0E1216"/>
+  <g stroke="#C8A46A" stroke-opacity="0.07" stroke-width="1">
+    <path d="M150 0v1080M300 0v1080M450 0v1080M600 0v1080M750 0v1080"/>
+    <path d="M0 180h900M0 360h900M0 540h900M0 720h900M0 900h900"/>
+  </g>
+  <rect x="26" y="26" width="848" height="1028" fill="none" stroke="#C8A46A" stroke-opacity="0.28"/>
+  <g fill="none" stroke="#C8A46A" stroke-opacity="0.55" stroke-width="2">
+    <path d="M26 94V26h68M806 26h68v68M874 986v68h-68M94 1054H26v-68"/>
+  </g>
+  <g fill="#13171D" stroke="#39414D" stroke-width="2">
+    <rect x="404" y="150" width="92" height="20" rx="4"/>
+  </g>
+  <path d="M450 170v168" stroke="#C8A46A" stroke-width="6"/>
+  <g>
+    <ellipse cx="450" cy="352" rx="232" ry="44" fill="#232A33" stroke="#4A5361" stroke-width="2"/>
+    <path d="M218 352v44a232 44 0 0 0 464 0v-44" fill="#161B21" stroke="#39414D" stroke-width="2"/>
+    <ellipse cx="450" cy="396" rx="232" ry="44" fill="#10151A" stroke="#39414D" stroke-width="1.5"/>
+  </g>
+  <g fill="#C8A46A" opacity="0.45">
+    <circle cx="450" cy="352" r="3"/>
+    <circle cx="380" cy="344" r="3"/><circle cx="520" cy="344" r="3"/>
+    <circle cx="308" cy="336" r="3"/><circle cx="592" cy="336" r="3"/>
+    <circle cx="240" cy="348" r="3"/><circle cx="660" cy="348" r="3"/>
+    <circle cx="354" cy="366" r="3"/><circle cx="546" cy="366" r="3"/>
+    <circle cx="450" cy="372" r="3"/>
+  </g>
+  <g stroke="#C8A46A" stroke-opacity="0.22" stroke-width="2" stroke-linecap="round">
+    <path d="M300 452v92M354 486v128M408 466v154M462 490v120M516 470v96M570 492v140M624 458v74"/>
+  </g>
+  <g fill="none" stroke="#4A5361" stroke-width="2">
+    <path d="M262 700h-14a84 84 0 0 1-84-84" stroke="#C8A46A" stroke-opacity="0.5"/>
+    <circle cx="262" cy="700" r="46" fill="#1B2028"/>
+    <circle cx="262" cy="700" r="16" fill="#13171D" stroke="#C8A46A" stroke-opacity="0.7"/>
+    <path d="M262 654v92M216 700h92" stroke="#C8A46A" stroke-opacity="0.55"/>
+  </g>
+  <g transform="rotate(14 700 720)">
+    <rect x="680" y="600" width="40" height="220" rx="20" fill="#1B2028" stroke="#4A5361" stroke-width="2"/>
+    <rect x="684" y="616" width="32" height="34" rx="6" fill="#232A33" stroke="#C8A46A" stroke-opacity="0.55"/>
+    <circle cx="700" cy="690" r="4" fill="#C8A46A" opacity="0.6"/>
+    <circle cx="700" cy="712" r="4" fill="#C8A46A" opacity="0.45"/>
+    <circle cx="700" cy="734" r="4" fill="#C8A46A" opacity="0.3"/>
+  </g>
+  <path d="M690 820c-60 60-140 30-150 96" fill="none" stroke="#C8A46A" stroke-opacity="0.4" stroke-width="3" stroke-linecap="round" stroke-dasharray="10 12"/>
+  <text x="60" y="1018" fill="#8C8C95" font-family="Inter, system-ui, sans-serif" font-size="16" letter-spacing="3">PLACEHOLDER — APPROVED PHOTOGRAPH TO BE SUPPLIED</text>
+</svg>

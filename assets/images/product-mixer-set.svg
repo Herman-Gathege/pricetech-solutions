@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900" width="720" height="900" role="img" aria-labelledby="title">
+  <!--
+    PLACEHOLDER ASSET — product-mixer-set.svg
+    Replace with an approved product photograph of the Modern Concealed Shower Mixer Set.
+    Target 900x1125 (4:5), under 200 KB.
+  -->
+  <title id="title">Concealed shower mixer set line illustration</title>
+  <rect width="720" height="900" fill="#0E1216"/>
+  <rect x="22" y="22" width="676" height="856" fill="none" stroke="#C8A46A" stroke-opacity="0.24"/>
+  <rect x="210" y="120" width="300" height="300" rx="8" fill="#161B21" stroke="#39414D" stroke-width="2"/>
+  <rect x="242" y="152" width="236" height="236" rx="4" fill="none" stroke="#C8A46A" stroke-opacity="0.18"/>
+  <g fill="#C8A46A" opacity="0.35">
+    <circle cx="280" cy="190" r="2.5"/><circle cx="320" cy="190" r="2.5"/><circle cx="360" cy="190" r="2.5"/><circle cx="400" cy="190" r="2.5"/><circle cx="440" cy="190" r="2.5"/>
+    <circle cx="280" cy="230" r="2.5"/><circle cx="320" cy="230" r="2.5"/><circle cx="360" cy="230" r="2.5"/><circle cx="400" cy="230" r="2.5"/><circle cx="440" cy="230" r="2.5"/>
+    <circle cx="280" cy="270" r="2.5"/><circle cx="320" cy="270" r="2.5"/><circle cx="360" cy="270" r="2.5"/><circle cx="400" cy="270" r="2.5"/><circle cx="440" cy="270" r="2.5"/>
+    <circle cx="280" cy="310" r="2.5"/><circle cx="320" cy="310" r="2.5"/><circle cx="360" cy="310" r="2.5"/><circle cx="400" cy="310" r="2.5"/><circle cx="440" cy="310" r="2.5"/>
+  </g>
+  <path d="M360 120V60h-90" fill="none" stroke="#C8A46A" stroke-opacity="0.55" stroke-width="3"/>
+  <g stroke="#C8A46A" stroke-opacity="0.16" stroke-width="2" stroke-linecap="round">
+    <path d="M300 452v90M360 480v130M420 456v96"/>
+  </g>
+  <rect x="150" y="560" width="420" height="210" rx="10" fill="#1B2028" stroke="#4A5361" stroke-width="2"/>
+  <rect x="176" y="586" width="368" height="158" rx="6" fill="none" stroke="#C8A46A" stroke-opacity="0.2"/>
+  <g fill="#13171D" stroke="#C8A46A" stroke-opacity="0.65" stroke-width="2">
+    <circle cx="266" cy="665" r="44"/>
+    <circle cx="360" cy="665" r="30"/>
+    <circle cx="454" cy="665" r="44"/>
+  </g>
+  <g stroke="#C8A46A" stroke-opacity="0.5" stroke-width="2">
+    <path d="M266 630v70M231 665h70"/>
+    <path d="M360 643v44"/>
+    <path d="M420 665h68"/>
+  </g>
+  <text x="52" y="842" fill="#8C8C95" font-family="Inter, system-ui, sans-serif" font-size="14" letter-spacing="2.6">PLACEHOLDER — PRODUCT PHOTOGRAPH TO BE SUPPLIED</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900" width="720" height="900" role="img" aria-labelledby="title">
+  <!--
+    PLACEHOLDER ASSET — product-rain-shower.svg
+    Replace with an approved product photograph of the Premium Black Rain Shower System
+    on a dark backdrop. Target 900x1125 (4:5), under 200 KB.
+  -->
+  <title id="title">Black rain shower system line illustration</title>
+  <rect width="720" height="900" fill="#0E1216"/>
+  <rect x="22" y="22" width="676" height="856" fill="none" stroke="#C8A46A" stroke-opacity="0.24"/>
+  <path d="M360 96v150" stroke="#C8A46A" stroke-width="5" stroke-opacity="0.7"/>
+  <ellipse cx="360" cy="268" rx="196" ry="34" fill="#232A33" stroke="#4A5361" stroke-width="2"/>
+  <path d="M164 268v34a196 34 0 0 0 392 0v-34" fill="#161B21" stroke="#39414D" stroke-width="2"/>
+  <ellipse cx="360" cy="302" rx="196" ry="34" fill="#10151A" stroke="#39414D" stroke-width="1.5"/>
+  <g fill="#C8A46A" opacity="0.4">
+    <circle cx="360" cy="268" r="2.5"/><circle cx="300" cy="262" r="2.5"/><circle cx="420" cy="262" r="2.5"/>
+    <circle cx="240" cy="258" r="2.5"/><circle cx="480" cy="258" r="2.5"/>
+    <circle cx="284" cy="280" r="2.5"/><circle cx="436" cy="280" r="2.5"/>
+  </g>
+  <g stroke="#C8A46A" stroke-opacity="0.2" stroke-width="2" stroke-linecap="round">
+    <path d="M250 350v88M310 380v120M370 356v146M430 384v110M490 352v78"/>
+  </g>
+  <rect x="556" y="360" width="20" height="330" rx="10" fill="#1B2028" stroke="#4A5361" stroke-width="2"/>
+  <g transform="rotate(12 566 620)">
+    <rect x="548" y="540" width="36" height="190" rx="18" fill="#1B2028" stroke="#4A5361" stroke-width="2"/>
+    <rect x="552" y="554" width="28" height="30" rx="5" fill="#232A33" stroke="#C8A46A" stroke-opacity="0.55"/>
+    <circle cx="566" cy="620" r="3.5" fill="#C8A46A" opacity="0.55"/>
+    <circle cx="566" cy="640" r="3.5" fill="#C8A46A" opacity="0.4"/>
+  </g>
+  <path d="M558 730c-40 46-100 26-112 74" fill="none" stroke="#C8A46A" stroke-opacity="0.36" stroke-width="3" stroke-linecap="round" stroke-dasharray="9 11"/>
+  <text x="52" y="842" fill="#8C8C95" font-family="Inter, system-ui, sans-serif" font-size="14" letter-spacing="2.6">PLACEHOLDER — PRODUCT PHOTOGRAPH TO BE SUPPLIED</text>
+</svg>

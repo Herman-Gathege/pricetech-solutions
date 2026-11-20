@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Brand favicon: Pricetech Solutions monogram. Replace if an approved logo exists. -->
+  <rect width="64" height="64" rx="10" fill="#0B0D10"/>
+  <rect x="4.5" y="4.5" width="55" height="55" rx="7" fill="none" stroke="#C8A46A" stroke-opacity="0.35"/>
+  <path d="M24 46V18h10a8.5 8.5 0 0 1 0 17H24" fill="none" stroke="#C8A46A" stroke-width="4.5" stroke-linecap="square"/>
+  <circle cx="40" cy="46" r="2.5" fill="#C8A46A"/>
+</svg>

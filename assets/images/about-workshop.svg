@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" width="900" height="700" role="img" aria-labelledby="title">
+  <!--
+    PLACEHOLDER ASSET — about-workshop.svg
+    Replace with an approved photograph of a technician at a distribution board,
+    or a tidy completed installation. Target 1200x900 (4:3), under 250 KB.
+    Owner permission required before publishing any job photograph.
+  -->
+  <title id="title">Distribution board work line illustration</title>
+  <rect width="900" height="700" fill="#0E1216"/>
+  <g stroke="#C8A46A" stroke-opacity="0.07" stroke-width="1">
+    <path d="M150 0v700M300 0v700M450 0v700M600 0v700M750 0v700"/>
+  </g>
+  <rect x="24" y="24" width="852" height="652" fill="none" stroke="#C8A46A" stroke-opacity="0.22"/>
+  <g fill="none" stroke="#C8A46A" stroke-opacity="0.5" stroke-width="2">
+    <path d="M24 84V24h60M816 24h60v60M876 616v60h-60M84 676H24v-60"/>
+  </g>
+  <rect x="180" y="120" width="540" height="330" rx="8" fill="#161B21" stroke="#39414D" stroke-width="2"/>
+  <rect x="204" y="144" width="492" height="282" rx="4" fill="none" stroke="#C8A46A" stroke-opacity="0.16"/>
+  <g fill="#1B2028" stroke="#39414D" stroke-width="1.6">
+    <rect x="228" y="172" width="60" height="104" rx="3"/>
+    <rect x="300" y="172" width="60" height="104" rx="3"/>
+    <rect x="372" y="172" width="60" height="104" rx="3"/>
+    <rect x="444" y="172" width="60" height="104" rx="3"/>
+    <rect x="516" y="172" width="60" height="104" rx="3"/>
+    <rect x="588" y="172" width="60" height="104" rx="3"/>
+    <rect x="228" y="300" width="60" height="104" rx="3"/>
+    <rect x="300" y="300" width="60" height="104" rx="3"/>
+    <rect x="372" y="300" width="60" height="104" rx="3"/>
+    <rect x="444" y="300" width="60" height="104" rx="3"/>
+    <rect x="516" y="300" width="60" height="104" rx="3"/>
+    <rect x="588" y="300" width="60" height="104" rx="3"/>
+  </g>
+  <g fill="#C8A46A" opacity="0.55">
+    <rect x="252" y="200" width="12" height="46" rx="2"/>
+    <rect x="324" y="200" width="12" height="46" rx="2"/>
+    <rect x="396" y="200" width="12" height="46" rx="2"/>
+    <rect x="468" y="200" width="12" height="46" rx="2"/>
+    <rect x="540" y="200" width="12" height="46" rx="2"/>
+    <rect x="612" y="200" width="12" height="46" rx="2"/>
+    <rect x="252" y="328" width="12" height="46" rx="2"/>
+    <rect x="324" y="328" width="12" height="46" rx="2"/>
+    <rect x="396" y="328" width="12" height="46" rx="2"/>
+    <rect x="468" y="328" width="12" height="46" rx="2"/>
+    <rect x="540" y="328" width="12" height="46" rx="2"/>
+    <rect x="612" y="328" width="12" height="46" rx="2"/>
+  </g>
+  <g fill="none" stroke="#4A5361" stroke-width="2">
+    <path d="M240 450v70c0 26 22 48 48 48h300c26 0 48-22 48-48v-70"/>
+    <path d="M300 450v44M600 450v44"/>
+  </g>
+  <g stroke="#C8A46A" stroke-opacity="0.45" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M420 568v64M420 600l-24 24M420 600l24 24"/>
+  </g>
+  <text x="60" y="642" fill="#8C8C95" font-family="Inter, system-ui, sans-serif" font-size="16" letter-spacing="3">PLACEHOLDER — APPROVED PHOTOGRAPH TO BE SUPPLIED</text>
+</svg>
